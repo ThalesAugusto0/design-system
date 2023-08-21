@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
-    "build": "SET NODE_OPTIONS=--openssl-legacy-provider tsup src/index.tsx --format esm,cjs --dts --external react --watch"
+    "build": "build-storybook"
   },
   "keywords": [],
   "author": "",
