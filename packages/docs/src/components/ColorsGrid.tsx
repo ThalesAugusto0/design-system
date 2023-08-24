@@ -10,7 +10,7 @@ export function ColorsGrid() {
             display: 'flex',
             justifyContent: 'space-between',
             fontFamily: 'monospace',
-            color: getContrast(color, '#FFF') < 3.5 ? '#000' : '#FFF',
+            color: getContrast(color, '#FFFFF') < 3.5 ? '#000' : '#FFF',
           }}
         >
           <strong>${key}</strong>
