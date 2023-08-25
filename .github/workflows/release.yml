@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_REPO: hgNLUzMrv4fkwENYvojkINMY
+          TURBO_REPO: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: thalesaugusto0
