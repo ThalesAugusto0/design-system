@@ -1,5 +1,11 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@ignite-ui/react'
+import {
+  Box,
+  Text,
+  TextInput,
+  TextInputProps,
+} from '@design-system-igniteui/react'
+import React = require('react')
 
 export default {
   title: 'Form/Text Input',

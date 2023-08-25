@@ -1,5 +1,6 @@
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@design-system-igniteui/tokens'
 import { getContrast } from 'polished'
+import React = require('react')
 
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {
