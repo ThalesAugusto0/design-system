@@ -1,10 +1,14 @@
 # Components
 
-- [ ] Button
-- [ ] Heading
-- [ ] Text
-- [ ] TextInput
-- [ ] Textarea
-- [ ] Checkbox
-- [ ] Avatar
-- [ ] MultiStep
+- [x] Button
+- [x] Heading
+- [x] Text
+- [x] TextInput
+- [x] Textarea
+- [x] Checkbox
+- [x] Avatar
+- [x] MultiStep
+
+# Link da documentação
+
+https://thalesaugusto0.github.io/design-system/
