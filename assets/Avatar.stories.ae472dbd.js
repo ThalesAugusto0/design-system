@@ -1,0 +1,2 @@
+import{A as t}from"./index.fce5ebe2.js";import"./index.a0bc86cd.js";import"./iframe.29ec4c2a.js";import"./index.c64833f7.js";import"./jsx-runtime.068ebe85.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ThalesAugusto0.png",alt:"Thales Augusto"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.ae472dbd.js.map
